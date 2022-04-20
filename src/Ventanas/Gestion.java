@@ -15,7 +15,7 @@ public class Gestion extends javax.swing.JFrame {
     public Gestion() {
         initComponents();
         try{
-            this.setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logoEsSalud.jpg")).getImage());
+            this.setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logoAng.jpg")).getImage());
             System.out.println("Ícono cargado correctamente");
         }catch(Exception e){
             System.out.println("No se encontró ícono");

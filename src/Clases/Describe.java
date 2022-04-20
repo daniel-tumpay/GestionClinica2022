@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 
 public class Describe {
     
-    private String dato= "\n  El hospital especializado Guillermo Kaelin de la Fuente  ubicado en Villa María del Triunfo ofrece:\t"
+    private String dato= "\n  La Clínica \"Los Angeles\" ubicado en Villa El Salvador ofrece ofrece:\t"
         + "\n -  9 especialidades médicas para hospitalizacion y emergencias\n "
         + "\n -  12 especialidades médicas para consultas\n"
         

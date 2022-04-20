@@ -9,7 +9,7 @@ public class Login extends javax.swing.JFrame {
     public Login() {
         initComponents();
         try{//Se agrega esto por si no encuentra el ícono
-            this.setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logoEsSalud.jpg")).getImage());//ÍCONO
+            this.setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logoAng.jpg")).getImage());//ÍCONO
             System.out.println("Ícono cargado correctamente");
         }catch(Exception e){
             System.out.println("No se encontró ícono");
