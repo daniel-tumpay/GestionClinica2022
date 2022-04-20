@@ -209,10 +209,10 @@ public class Gestion extends javax.swing.JFrame {
         Button_TORNEO_MENSUAL.setBackground(new java.awt.Color(42, 71, 158));
         Button_TORNEO_MENSUAL.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         Button_TORNEO_MENSUAL.setForeground(new java.awt.Color(255, 255, 255));
-        Button_TORNEO_MENSUAL.setText("TORNEO QUIZ");
         Button_TORNEO_MENSUAL.setBorder(javax.swing.BorderFactory.createMatteBorder(0, 0, 1, 0, new java.awt.Color(16, 111, 148)));
         Button_TORNEO_MENSUAL.setContentAreaFilled(false);
         Button_TORNEO_MENSUAL.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        Button_TORNEO_MENSUAL.setLabel("EXAMEN PREGUNTAS");
         Button_TORNEO_MENSUAL.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Button_TORNEO_MENSUALActionPerformed(evt);
